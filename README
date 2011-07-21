@@ -1,0 +1,13 @@
+iPad Event Management with SFDC
+
+URL: http://www.cloudspokes.com/challenge_detail.html?contestID=216
+Blog: http://blog.cloudspokes.com/2011/07/ipad-event-management-for-salesforcecom.html
+Challenge end date: Thu Jun 23 03:00:00 GMT 2011
+
+Description
+===========
+Events are an important type of campaign. Managing who actually showed up to the event usually involves a physical list and later reconciling the results. Wouldn’t it be great to be able to use your iPad to quickly set the status of campaign members while at the event ? This challenge asks you to take that on in a way that works with the customizations of various campaigns in salesforce.com. This “Check-in Manager” application needs to be easy to use and have enough style that is not embarrassing to use as you check in your attendees.
+
+Requirements
+============
+See attached PDF for more details <br><br> The application will require people to enter their SFDC credentials and authenticate with their SFDC account in the settings menu of the app. They will also be able to search, find and select a campaign for the app to use in that area. <br><br> Upon launching the app, its uses the campaign in the settings and pulls back a list of campaign members and some details about the campaign (title, description, how many members in each status). From the app they can find a member and set their status to any of the valid fields for that campaign.
